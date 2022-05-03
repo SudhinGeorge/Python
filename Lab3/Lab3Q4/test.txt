@@ -1,0 +1,8 @@
+HTML
+CSS
+Bootstrap
+Javascript
+MySQL
+Python
+Django
+Angular

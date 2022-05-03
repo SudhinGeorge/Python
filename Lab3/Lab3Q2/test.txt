@@ -1,0 +1,5 @@
+Python is a high-level, interpreted, general-purpose programming language. 
+Its design philosophy emphasizes code readability with the use of significant indentation. 
+Python is dynamically-typed and garbage-collected. 
+Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis.
+Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems.JavaScript is easy to learn.JavaScript is easy to learn.

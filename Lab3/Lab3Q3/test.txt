@@ -1,0 +1,3 @@
+JavaScript is the world's most popular programming language.
+JavaScript is the programming language of the web.
+JavaScript is easy to learn.JavaScript is easy to learn.appending line 1, appending line 2. appending line 1, appending line 2. 
